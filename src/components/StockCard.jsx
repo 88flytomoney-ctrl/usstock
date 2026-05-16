@@ -49,13 +49,13 @@ export default function StockCard({ stock }) {
         <div className="flex items-baseline justify-between border-t border-slate-700 pt-2">
           <div>
             <span className="text-2xl font-bold text-white">
-              ${prices[prices.length - 1].close.toFixed(2)}
+              ${prices[0].close.toFixed(2)}
             </span>
             <span className="text-sm text-slate-400 ml-1">USD</span>
           </div>
           <div className="text-right text-xs text-slate-400 space-y-0.5">
-            <p>5日高 ${prices[prices.length - 1].high?.toFixed(2) || '–'}</p>
-            <p>5日低 ${prices[prices.length - 1].low?.toFixed(2) || '–'}</p>
+            <p>5日高 ${Math.max(...prices.map(p => p.high)).toFixed(2)}</p>
+            <p>5日低 ${Math.min(...prices.map(p => p.low)).toFixed(2)}</p>
           </div>
         </div>
       )}
