@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16 14:01:34",
+  "generatedAt": "2026-05-16 15:02:12",
   "generatedDate": "2026-05-16",
   "stockCount": 10,
   "stocks": [
@@ -59,19 +59,19 @@
           "volumeM": 160.69
         }
       ],
-      "fiveDayPct": -2.61,
+      "fiveDayPct": 2.68,
       "high5": 236.54,
       "low5": 213.89,
       "avgVolume": 166405655.0,
       "volTrend": "↓",
       "analysis": {
-        "signal": "watch",
-        "summary": "NVIDIA Corp五日走勢下跌，累積變動-2.61%。成交量穩定。技術信號：觀望。",
+        "signal": "hold",
+        "summary": "NVIDIA Corp五日走勢下跌，累積變動+2.68%。成交量穩定。技術信號：持有。",
         "trend": "downtrend",
         "volumeSignal": "stable",
         "support": 218.17,
         "resistance": 231.81,
-        "generatedAt": "2026-05-16 14:01"
+        "generatedAt": "2026-05-16 15:02"
       }
     },
     {
@@ -130,19 +130,19 @@
           "volumeM": 70.97
         }
       ],
-      "fiveDayPct": 9.75,
+      "fiveDayPct": -8.89,
       "high5": 818.67,
       "low5": 706.601,
       "avgVolume": 58050558.0,
       "volTrend": "↑",
       "analysis": {
-        "signal": "strong buy",
-        "summary": "Micron Technology五日走勢上升，累積變動+9.75%。成交量放大。技術信號：強烈買入。",
+        "signal": "sell",
+        "summary": "Micron Technology五日走勢上升，累積變動-8.89%。成交量放大。技術信號：賣出。",
         "trend": "uptrend",
         "volumeSignal": "volume surge",
         "support": 720.73,
         "resistance": 802.3,
-        "generatedAt": "2026-05-16 14:01"
+        "generatedAt": "2026-05-16 15:02"
       }
     },
     {
@@ -201,19 +201,19 @@
           "volumeM": 35.66
         }
       ],
-      "fiveDayPct": -2.19,
+      "fiveDayPct": 2.24,
       "high5": 428.17,
       "low5": 400.88,
       "avgVolume": 36353587.8,
       "volTrend": "↓",
       "analysis": {
-        "signal": "watch",
-        "summary": "Microsoft Corp五日走勢震盪，累積變動-2.19%。成交量穩定。技術信號：觀望。",
+        "signal": "hold",
+        "summary": "Microsoft Corp五日走勢震盪，累積變動+2.24%。成交量穩定。技術信號：持有。",
         "trend": "sideways",
         "volumeSignal": "stable",
         "support": 408.9,
         "resistance": 419.61,
-        "generatedAt": "2026-05-16 14:01"
+        "generatedAt": "2026-05-16 15:02"
       }
     },
     {
@@ -272,19 +272,19 @@
           "volumeM": 78.38
         }
       ],
-      "fiveDayPct": 5.39,
+      "fiveDayPct": -5.11,
       "high5": 453.4,
       "low5": 416.8,
       "avgVolume": 61197552.4,
       "volTrend": "↑",
       "analysis": {
-        "signal": "hold",
-        "summary": "Tesla五日走勢震盪，累積變動+5.39%。成交量穩定。技術信號：持有。",
+        "signal": "sell",
+        "summary": "Tesla五日走勢震盪，累積變動-5.11%。成交量穩定。技術信號：賣出。",
         "trend": "sideways",
         "volumeSignal": "stable",
         "support": 425.14,
         "resistance": 444.33,
-        "generatedAt": "2026-05-16 14:01"
+        "generatedAt": "2026-05-16 15:02"
       }
     },
     {
@@ -343,19 +343,19 @@
           "volumeM": 42.25
         }
       ],
-      "fiveDayPct": -2.51,
+      "fiveDayPct": 2.58,
       "high5": 303.2,
       "low5": 290.23,
       "avgVolume": 46173486.4,
       "volTrend": "↓",
       "analysis": {
-        "signal": "watch",
-        "summary": "Apple五日走勢震盪，累積變動-2.51%。成交量穩定。技術信號：觀望。",
+        "signal": "hold",
+        "summary": "Apple五日走勢震盪，累積變動+2.58%。成交量穩定。技術信號：持有。",
         "trend": "sideways",
         "volumeSignal": "stable",
         "support": 296.03,
         "resistance": 297.14,
-        "generatedAt": "2026-05-16 14:01"
+        "generatedAt": "2026-05-16 15:02"
       }
     },
     {
@@ -414,19 +414,19 @@
           "volumeM": 16.52
         }
       ],
-      "fiveDayPct": 9.94,
+      "fiveDayPct": -9.04,
       "high5": 1600.0,
       "low5": 1315.75,
       "avgVolume": 14099773.4,
       "volTrend": "↑",
       "analysis": {
-        "signal": "strong buy",
-        "summary": "SanDisk Corp.五日走勢上升，累積變動+9.94%。成交量放大。技術信號：強烈買入。",
+        "signal": "sell",
+        "summary": "SanDisk Corp.五日走勢上升，累積變動-9.04%。成交量放大。技術信號：賣出。",
         "trend": "uptrend",
         "volumeSignal": "volume surge",
         "support": 1342.07,
         "resistance": 1568.0,
-        "generatedAt": "2026-05-16 14:01"
+        "generatedAt": "2026-05-16 15:02"
       }
     },
     {
@@ -485,19 +485,19 @@
           "volumeM": 179.49
         }
       ],
-      "fiveDayPct": 19.0,
+      "fiveDayPct": -15.97,
       "high5": 132.75,
       "low5": 105.02,
       "avgVolume": 144170644.4,
       "volTrend": "↑",
       "analysis": {
-        "signal": "strong buy",
-        "summary": "Intel Corp五日走勢上升，累積變動+19.00%。成交量放大。技術信號：強烈買入。",
+        "signal": "sell",
+        "summary": "Intel Corp五日走勢上升，累積變動-15.97%。成交量放大。技術信號：賣出。",
         "trend": "uptrend",
         "volumeSignal": "volume surge",
         "support": 107.12,
         "resistance": 130.09,
-        "generatedAt": "2026-05-16 14:01"
+        "generatedAt": "2026-05-16 15:02"
       }
     },
     {
@@ -556,19 +556,19 @@
           "volumeM": 46.09
         }
       ],
-      "fiveDayPct": 8.18,
+      "fiveDayPct": -7.56,
       "high5": 469.215,
       "low5": 423.3616,
       "avgVolume": 34178790.8,
       "volTrend": "↑",
       "analysis": {
-        "signal": "strong buy",
-        "summary": "Advanced Micro Devices五日走勢上升，累積變動+8.18%。成交量放大。技術信號：強烈買入。",
+        "signal": "sell",
+        "summary": "Advanced Micro Devices五日走勢上升，累積變動-7.56%。成交量放大。技術信號：賣出。",
         "trend": "uptrend",
         "volumeSignal": "volume surge",
         "support": 431.83,
         "resistance": 459.83,
-        "generatedAt": "2026-05-16 14:01"
+        "generatedAt": "2026-05-16 15:02"
       }
     },
     {
@@ -627,19 +627,19 @@
           "volumeM": 9.55
         }
       ],
-      "fiveDayPct": 8.49,
+      "fiveDayPct": -7.82,
       "high5": 1085.68,
       "low5": 923.0,
       "avgVolume": 7042204.0,
       "volTrend": "↑",
       "analysis": {
-        "signal": "strong buy",
-        "summary": "Lumentum Holdings五日走勢上升，累積變動+8.49%。成交量放大。技術信號：強烈買入。",
+        "signal": "sell",
+        "summary": "Lumentum Holdings五日走勢上升，累積變動-7.82%。成交量放大。技術信號：賣出。",
         "trend": "uptrend",
         "volumeSignal": "volume surge",
         "support": 941.46,
         "resistance": 1063.97,
-        "generatedAt": "2026-05-16 14:01"
+        "generatedAt": "2026-05-16 15:02"
       }
     },
     {
@@ -698,21 +698,21 @@
           "volumeM": 38.18
         }
       ],
-      "fiveDayPct": 1.84,
+      "fiveDayPct": -1.8,
       "high5": 273.63,
       "low5": 260.8901,
       "avgVolume": 37346522.2,
       "volTrend": "↑",
       "analysis": {
-        "signal": "hold",
-        "summary": "Amazon.com五日走勢震盪，累積變動+1.84%。成交量穩定。技術信號：持有。",
+        "signal": "watch",
+        "summary": "Amazon.com五日走勢震盪，累積變動-1.80%。成交量穩定。技術信號：觀望。",
         "trend": "sideways",
         "volumeSignal": "stable",
         "support": 266.11,
         "resistance": 268.16,
-        "generatedAt": "2026-05-16 14:01"
+        "generatedAt": "2026-05-16 15:02"
       }
     }
   ],
-  "aiSummary": "今日追蹤 10 檔熱門美股，五日整體平均上漲5.53%。表現最佳：Intel Corp（INTC）+19.00%，表現最弱：NVIDIA Corp（NVDA）-2.61%。上漲 7 檔，下跌 3 檔。"
+  "aiSummary": "今日追蹤 10 檔熱門美股，五日整體平均下跌4.87%。表現最佳：NVIDIA Corp（NVDA）+2.68%，表現最弱：Intel Corp（INTC）-15.97%。上漲 3 檔，下跌 7 檔。"
 }
