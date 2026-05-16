@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16 09:57:44",
+  "generatedAt": "2026-05-16 10:46:27",
   "generatedDate": "2026-05-16",
   "stockCount": 10,
   "stocks": [
@@ -9,69 +9,69 @@
       "name": "NVIDIA Corp",
       "prices": [
         {
-          "date": "2026-05-12",
-          "dateShort": "05/12",
-          "close": 496.2,
-          "open": 494.21,
-          "high": 498.52,
-          "low": 489.55,
-          "volume": 20033509,
-          "volumeM": 20.0
-        },
-        {
-          "date": "2026-05-13",
-          "dateShort": "05/13",
-          "close": 494.0,
-          "open": 495.8,
-          "high": 497.64,
-          "low": 490.19,
-          "volume": 48442827,
-          "volumeM": 48.4
+          "date": "2026-05-15",
+          "dateShort": "05/15",
+          "close": 225.32,
+          "open": 229.76,
+          "high": 231.5,
+          "low": 224.24,
+          "volume": 180977639,
+          "volumeM": 180.98
         },
         {
           "date": "2026-05-14",
           "dateShort": "05/14",
-          "close": 484.64,
-          "open": 481.44,
-          "high": 486.84,
-          "low": 477.65,
-          "volume": 45206351,
-          "volumeM": 45.2
+          "close": 235.74,
+          "open": 229.85,
+          "high": 236.54,
+          "low": 229.3,
+          "volume": 180782857,
+          "volumeM": 180.78
         },
         {
-          "date": "2026-05-15",
-          "dateShort": "05/15",
-          "close": 480.01,
-          "open": 477.95,
-          "high": 483.37,
-          "low": 474.94,
-          "volume": 43462219,
-          "volumeM": 43.5
+          "date": "2026-05-13",
+          "dateShort": "05/13",
+          "close": 225.83,
+          "open": 224.93,
+          "high": 227.84,
+          "low": 221.5653,
+          "volume": 150405386,
+          "volumeM": 150.41
         },
         {
-          "date": "2026-05-16",
-          "dateShort": "05/16",
-          "close": 472.18,
-          "open": 476.83,
-          "high": 481.0,
-          "low": 471.24,
-          "volume": 15100819,
-          "volumeM": 15.1
+          "date": "2026-05-12",
+          "dateShort": "05/12",
+          "close": 220.78,
+          "open": 218.545,
+          "high": 223.75,
+          "low": 214.92,
+          "volume": 159176619,
+          "volumeM": 159.18
+        },
+        {
+          "date": "2026-05-11",
+          "dateShort": "05/11",
+          "close": 219.44,
+          "open": 214.035,
+          "high": 222.3,
+          "low": 213.89,
+          "volume": 160685774,
+          "volumeM": 160.69
         }
       ],
-      "fiveDayPct": -4.84,
-      "high5": 498.52,
-      "low5": 471.24,
-      "avgVolume": 34449145.0,
+      "fiveDayPct": -2.61,
+      "high5": 236.54,
+      "low5": 213.89,
+      "avgVolume": 166405655.0,
       "volTrend": "↓",
       "analysis": {
-        "signal": "sell",
-        "summary": "NVIDIA Corp五日走勢下跌，累積變動-4.84%。成交量穩定。技術信號：賣出。",
+        "signal": "watch",
+        "summary": "NVIDIA Corp五日走勢下跌，累積變動-2.61%。成交量穩定。技術信號：觀望。",
         "trend": "downtrend",
         "volumeSignal": "stable",
-        "support": 480.66,
-        "resistance": 488.55,
-        "generatedAt": "2026-05-16 09:57"
+        "support": 218.17,
+        "resistance": 231.81,
+        "generatedAt": "2026-05-16 10:46"
       }
     },
     {
@@ -80,69 +80,69 @@
       "name": "Micron Technology",
       "prices": [
         {
-          "date": "2026-05-12",
-          "dateShort": "05/12",
-          "close": 97.43,
-          "open": 98.31,
-          "high": 98.61,
-          "low": 97.05,
-          "volume": 19918783,
-          "volumeM": 19.9
-        },
-        {
-          "date": "2026-05-13",
-          "dateShort": "05/13",
-          "close": 96.46,
-          "open": 96.29,
-          "high": 97.38,
-          "low": 95.75,
-          "volume": 5405384,
-          "volumeM": 5.4
+          "date": "2026-05-15",
+          "dateShort": "05/15",
+          "close": 724.66,
+          "open": 732.57,
+          "high": 749.59,
+          "low": 719.0,
+          "volume": 48519043,
+          "volumeM": 48.52
         },
         {
           "date": "2026-05-14",
           "dateShort": "05/14",
-          "close": 97.39,
-          "open": 97.75,
-          "high": 97.8,
-          "low": 97.36,
-          "volume": 31463746,
-          "volumeM": 31.5
+          "close": 776.01,
+          "open": 787.62,
+          "high": 812.0,
+          "low": 775.63,
+          "volume": 42142707,
+          "volumeM": 42.14
         },
         {
-          "date": "2026-05-15",
-          "dateShort": "05/15",
-          "close": 95.66,
-          "open": 95.33,
-          "high": 96.0,
-          "low": 94.95,
-          "volume": 32521947,
-          "volumeM": 32.5
+          "date": "2026-05-13",
+          "dateShort": "05/13",
+          "close": 803.63,
+          "open": 813.155,
+          "high": 814.95,
+          "low": 779.47,
+          "volume": 54875148,
+          "volumeM": 54.88
         },
         {
-          "date": "2026-05-16",
-          "dateShort": "05/16",
-          "close": 97.84,
-          "open": 98.25,
-          "high": 98.65,
-          "low": 97.54,
-          "volume": 20249079,
-          "volumeM": 20.2
+          "date": "2026-05-12",
+          "dateShort": "05/12",
+          "close": 766.58,
+          "open": 774.7,
+          "high": 782.76,
+          "low": 706.601,
+          "volume": 73742954,
+          "volumeM": 73.74
+        },
+        {
+          "date": "2026-05-11",
+          "dateShort": "05/11",
+          "close": 795.33,
+          "open": 792.98,
+          "high": 818.67,
+          "low": 768.0,
+          "volume": 70972938,
+          "volumeM": 70.97
         }
       ],
-      "fiveDayPct": 0.42,
-      "high5": 98.65,
-      "low5": 94.95,
-      "avgVolume": 21911787.8,
-      "volTrend": "↓",
+      "fiveDayPct": 9.75,
+      "high5": 818.67,
+      "low5": 706.601,
+      "avgVolume": 58050558.0,
+      "volTrend": "↑",
       "analysis": {
-        "signal": "buy",
-        "summary": "Micron Technology五日走勢震盪，累積變動+0.42%。成交量放大。技術信號：買入。",
-        "trend": "sideways",
+        "signal": "strong buy",
+        "summary": "Micron Technology五日走勢上升，累積變動+9.75%。成交量放大。技術信號：強烈買入。",
+        "trend": "uptrend",
         "volumeSignal": "volume surge",
-        "support": 96.85,
-        "resistance": 96.68,
-        "generatedAt": "2026-05-16 09:57"
+        "support": 720.73,
+        "resistance": 802.3,
+        "generatedAt": "2026-05-16 10:46"
       }
     },
     {
@@ -151,69 +151,69 @@
       "name": "Microsoft Corp",
       "prices": [
         {
-          "date": "2026-05-12",
-          "dateShort": "05/12",
-          "close": 410.94,
-          "open": 414.62,
-          "high": 414.85,
-          "low": 410.59,
-          "volume": 42597449,
-          "volumeM": 42.6
-        },
-        {
-          "date": "2026-05-13",
-          "dateShort": "05/13",
-          "close": 416.76,
-          "open": 418.17,
-          "high": 419.46,
-          "low": 414.23,
-          "volume": 32306078,
-          "volumeM": 32.3
+          "date": "2026-05-15",
+          "dateShort": "05/15",
+          "close": 421.92,
+          "open": 414.27,
+          "high": 428.17,
+          "low": 412.91,
+          "volume": 50771160,
+          "volumeM": 50.77
         },
         {
           "date": "2026-05-14",
           "dateShort": "05/14",
-          "close": 418.79,
-          "open": 415.93,
-          "high": 420.59,
-          "low": 414.29,
-          "volume": 37535543,
-          "volumeM": 37.5
+          "close": 409.43,
+          "open": 404.48,
+          "high": 411.84,
+          "low": 400.88,
+          "volume": 27077542,
+          "volumeM": 27.08
         },
         {
-          "date": "2026-05-15",
-          "dateShort": "05/15",
-          "close": 431.22,
-          "open": 435.1,
-          "high": 437.47,
-          "low": 429.3,
-          "volume": 17070833,
-          "volumeM": 17.1
+          "date": "2026-05-13",
+          "dateShort": "05/13",
+          "close": 405.21,
+          "open": 403.2,
+          "high": 406.31,
+          "low": 401.03,
+          "volume": 29667073,
+          "volumeM": 29.67
         },
         {
-          "date": "2026-05-16",
-          "dateShort": "05/16",
-          "close": 419.21,
-          "open": 415.25,
-          "high": 421.16,
-          "low": 413.93,
-          "volume": 22100671,
-          "volumeM": 22.1
+          "date": "2026-05-12",
+          "dateShort": "05/12",
+          "close": 407.77,
+          "open": 414.48,
+          "high": 415.5,
+          "low": 406.64,
+          "volume": 38594221,
+          "volumeM": 38.59
+        },
+        {
+          "date": "2026-05-11",
+          "dateShort": "05/11",
+          "close": 412.66,
+          "open": 407.87,
+          "high": 412.69,
+          "low": 405.5,
+          "volume": 35657943,
+          "volumeM": 35.66
         }
       ],
-      "fiveDayPct": 2.01,
-      "high5": 437.47,
-      "low5": 410.59,
-      "avgVolume": 30322114.8,
+      "fiveDayPct": -2.19,
+      "high5": 428.17,
+      "low5": 400.88,
+      "avgVolume": 36353587.8,
       "volTrend": "↓",
       "analysis": {
-        "signal": "buy",
-        "summary": "Microsoft Corp五日走勢上升，累積變動+2.01%。成交量萎縮。技術信號：買入。",
-        "trend": "uptrend",
-        "volumeSignal": "volume decline",
-        "support": 418.8,
-        "resistance": 428.72,
-        "generatedAt": "2026-05-16 09:57"
+        "signal": "watch",
+        "summary": "Microsoft Corp五日走勢震盪，累積變動-2.19%。成交量穩定。技術信號：觀望。",
+        "trend": "sideways",
+        "volumeSignal": "stable",
+        "support": 408.9,
+        "resistance": 419.61,
+        "generatedAt": "2026-05-16 10:46"
       }
     },
     {
@@ -222,69 +222,69 @@
       "name": "Tesla",
       "prices": [
         {
-          "date": "2026-05-12",
-          "dateShort": "05/12",
-          "close": 255.37,
-          "open": 255.49,
-          "high": 257.81,
-          "low": 252.94,
-          "volume": 7371015,
-          "volumeM": 7.4
-        },
-        {
-          "date": "2026-05-13",
-          "dateShort": "05/13",
-          "close": 257.68,
-          "open": 259.4,
-          "high": 260.4,
-          "low": 256.14,
-          "volume": 21838516,
-          "volumeM": 21.8
+          "date": "2026-05-15",
+          "dateShort": "05/15",
+          "close": 422.24,
+          "open": 433.98,
+          "high": 434.66,
+          "low": 422.0,
+          "volume": 52688742,
+          "volumeM": 52.69
         },
         {
           "date": "2026-05-14",
           "dateShort": "05/14",
-          "close": 261.76,
-          "open": 261.14,
-          "high": 262.58,
-          "low": 258.56,
-          "volume": 20118068,
-          "volumeM": 20.1
+          "close": 443.3,
+          "open": 446.49,
+          "high": 451.98,
+          "low": 441.16,
+          "volume": 46070361,
+          "volumeM": 46.07
         },
         {
-          "date": "2026-05-15",
-          "dateShort": "05/15",
-          "close": 263.37,
-          "open": 263.99,
-          "high": 266.49,
-          "low": 262.47,
-          "volume": 44564866,
-          "volumeM": 44.6
+          "date": "2026-05-13",
+          "dateShort": "05/13",
+          "close": 445.27,
+          "open": 436.665,
+          "high": 453.4,
+          "low": 430.21,
+          "volume": 68283229,
+          "volumeM": 68.28
         },
         {
-          "date": "2026-05-16",
-          "dateShort": "05/16",
-          "close": 258.43,
-          "open": 256.45,
-          "high": 259.82,
-          "low": 255.99,
-          "volume": 17017331,
-          "volumeM": 17.0
+          "date": "2026-05-12",
+          "dateShort": "05/12",
+          "close": 433.45,
+          "open": 441.41,
+          "high": 447.8,
+          "low": 422.26,
+          "volume": 60569303,
+          "volumeM": 60.57
+        },
+        {
+          "date": "2026-05-11",
+          "dateShort": "05/11",
+          "close": 445.0,
+          "open": 422.16,
+          "high": 449.16,
+          "low": 416.8,
+          "volume": 78376127,
+          "volumeM": 78.38
         }
       ],
-      "fiveDayPct": 1.2,
-      "high5": 266.49,
-      "low5": 252.94,
-      "avgVolume": 22181959.2,
-      "volTrend": "↓",
+      "fiveDayPct": 5.39,
+      "high5": 453.4,
+      "low5": 416.8,
+      "avgVolume": 61197552.4,
+      "volTrend": "↑",
       "analysis": {
-        "signal": "buy",
-        "summary": "Tesla五日走勢震盪，累積變動+1.20%。成交量放大。技術信號：買入。",
+        "signal": "hold",
+        "summary": "Tesla五日走勢震盪，累積變動+5.39%。成交量穩定。技術信號：持有。",
         "trend": "sideways",
-        "volumeSignal": "volume surge",
-        "support": 258.0,
-        "resistance": 261.16,
-        "generatedAt": "2026-05-16 09:57"
+        "volumeSignal": "stable",
+        "support": 425.14,
+        "resistance": 444.33,
+        "generatedAt": "2026-05-16 10:46"
       }
     },
     {
@@ -293,69 +293,69 @@
       "name": "Apple",
       "prices": [
         {
-          "date": "2026-05-12",
-          "dateShort": "05/12",
-          "close": 181.71,
-          "open": 182.56,
-          "high": 184.34,
-          "low": 180.2,
-          "volume": 22560992,
-          "volumeM": 22.6
-        },
-        {
-          "date": "2026-05-13",
-          "dateShort": "05/13",
-          "close": 183.45,
-          "open": 183.38,
-          "high": 184.8,
-          "low": 182.89,
-          "volume": 40642666,
-          "volumeM": 40.6
+          "date": "2026-05-15",
+          "dateShort": "05/15",
+          "close": 300.23,
+          "open": 297.9,
+          "high": 303.2,
+          "low": 296.52,
+          "volume": 54862836,
+          "volumeM": 54.86
         },
         {
           "date": "2026-05-14",
           "dateShort": "05/14",
-          "close": 180.8,
-          "open": 182.42,
-          "high": 183.99,
-          "low": 179.58,
-          "volume": 16819035,
-          "volumeM": 16.8
+          "close": 298.21,
+          "open": 299.82,
+          "high": 300.45,
+          "low": 295.38,
+          "volume": 35324922,
+          "volumeM": 35.32
         },
         {
-          "date": "2026-05-15",
-          "dateShort": "05/15",
-          "close": 180.03,
-          "open": 178.85,
-          "high": 181.56,
-          "low": 177.33,
-          "volume": 48867709,
-          "volumeM": 48.9
+          "date": "2026-05-13",
+          "dateShort": "05/13",
+          "close": 298.87,
+          "open": 293.5,
+          "high": 300.92,
+          "low": 293.5,
+          "volume": 52684260,
+          "volumeM": 52.68
         },
         {
-          "date": "2026-05-16",
-          "dateShort": "05/16",
-          "close": 177.95,
-          "open": 178.75,
-          "high": 179.33,
-          "low": 176.28,
-          "volume": 7894888,
-          "volumeM": 7.9
+          "date": "2026-05-12",
+          "dateShort": "05/12",
+          "close": 294.8,
+          "open": 292.56,
+          "high": 295.27,
+          "low": 292.56,
+          "volume": 45748129,
+          "volumeM": 45.75
+        },
+        {
+          "date": "2026-05-11",
+          "dateShort": "05/11",
+          "close": 292.68,
+          "open": 291.979,
+          "high": 293.88,
+          "low": 290.23,
+          "volume": 42247285,
+          "volumeM": 42.25
         }
       ],
-      "fiveDayPct": -2.07,
-      "high5": 184.8,
-      "low5": 176.28,
-      "avgVolume": 27357058.0,
+      "fiveDayPct": -2.51,
+      "high5": 303.2,
+      "low5": 290.23,
+      "avgVolume": 46173486.4,
       "volTrend": "↓",
       "analysis": {
         "signal": "watch",
-        "summary": "Apple五日走勢震盪，累積變動-2.07%。成交量穩定。技術信號：觀望。",
+        "summary": "Apple五日走勢震盪，累積變動-2.51%。成交量穩定。技術信號：觀望。",
         "trend": "sideways",
         "volumeSignal": "stable",
-        "support": 179.81,
-        "resistance": 181.1,
-        "generatedAt": "2026-05-16 09:57"
+        "support": 296.03,
+        "resistance": 297.14,
+        "generatedAt": "2026-05-16 10:46"
       }
     },
     {
@@ -364,69 +364,69 @@
       "name": "SanDisk Corp.",
       "prices": [
         {
-          "date": "2026-05-12",
-          "dateShort": "05/12",
-          "close": 101.08,
-          "open": 101.66,
-          "high": 102.6,
-          "low": 100.4,
-          "volume": 44090292,
-          "volumeM": 44.1
-        },
-        {
-          "date": "2026-05-13",
-          "dateShort": "05/13",
-          "close": 101.38,
-          "open": 102.04,
-          "high": 102.1,
-          "low": 101.02,
-          "volume": 9575521,
-          "volumeM": 9.6
+          "date": "2026-05-15",
+          "dateShort": "05/15",
+          "close": 1407.61,
+          "open": 1321.0,
+          "high": 1426.378,
+          "low": 1315.75,
+          "volume": 14011265,
+          "volumeM": 14.01
         },
         {
           "date": "2026-05-14",
           "dateShort": "05/14",
-          "close": 98.51,
-          "open": 99.42,
-          "high": 99.52,
-          "low": 97.79,
-          "volume": 30216413,
-          "volumeM": 30.2
+          "close": 1382.72,
+          "open": 1394.4,
+          "high": 1453.77,
+          "low": 1362.0,
+          "volume": 11213627,
+          "volumeM": 11.21
         },
         {
-          "date": "2026-05-15",
-          "dateShort": "05/15",
-          "close": 99.85,
-          "open": 99.79,
-          "high": 100.18,
-          "low": 99.46,
-          "volume": 10167095,
-          "volumeM": 10.2
+          "date": "2026-05-13",
+          "dateShort": "05/13",
+          "close": 1447.23,
+          "open": 1512.485,
+          "high": 1513.57,
+          "low": 1404.86,
+          "volume": 11618715,
+          "volumeM": 11.62
         },
         {
-          "date": "2026-05-16",
-          "dateShort": "05/16",
-          "close": 98.86,
-          "open": 98.47,
-          "high": 99.13,
-          "low": 98.07,
-          "volume": 20494331,
-          "volumeM": 20.5
+          "date": "2026-05-12",
+          "dateShort": "05/12",
+          "close": 1452.02,
+          "open": 1492.0,
+          "high": 1508.3199,
+          "low": 1367.0,
+          "volume": 17138470,
+          "volumeM": 17.14
+        },
+        {
+          "date": "2026-05-11",
+          "dateShort": "05/11",
+          "close": 1547.56,
+          "open": 1586.25,
+          "high": 1600.0,
+          "low": 1514.47,
+          "volume": 16516790,
+          "volumeM": 16.52
         }
       ],
-      "fiveDayPct": -2.2,
-      "high5": 102.6,
-      "low5": 97.79,
-      "avgVolume": 22908730.4,
-      "volTrend": "↓",
+      "fiveDayPct": 9.94,
+      "high5": 1600.0,
+      "low5": 1315.75,
+      "avgVolume": 14099773.4,
+      "volTrend": "↑",
       "analysis": {
-        "signal": "watch",
-        "summary": "SanDisk Corp.五日走勢下跌，累積變動-2.20%。成交量萎縮。技術信號：觀望。",
-        "trend": "downtrend",
-        "volumeSignal": "volume decline",
-        "support": 99.75,
-        "resistance": 100.55,
-        "generatedAt": "2026-05-16 09:57"
+        "signal": "strong buy",
+        "summary": "SanDisk Corp.五日走勢上升，累積變動+9.94%。成交量放大。技術信號：強烈買入。",
+        "trend": "uptrend",
+        "volumeSignal": "volume surge",
+        "support": 1342.07,
+        "resistance": 1568.0,
+        "generatedAt": "2026-05-16 10:46"
       }
     },
     {
@@ -435,69 +435,69 @@
       "name": "Intel Corp",
       "prices": [
         {
-          "date": "2026-05-12",
-          "dateShort": "05/12",
-          "close": 29.67,
-          "open": 29.61,
-          "high": 29.81,
-          "low": 29.57,
-          "volume": 19992474,
-          "volumeM": 20.0
-        },
-        {
-          "date": "2026-05-13",
-          "dateShort": "05/13",
-          "close": 29.38,
-          "open": 29.14,
-          "high": 29.6,
-          "low": 28.94,
-          "volume": 49809312,
-          "volumeM": 49.8
+          "date": "2026-05-15",
+          "dateShort": "05/15",
+          "close": 108.77,
+          "open": 109.785,
+          "high": 110.57,
+          "low": 105.02,
+          "volume": 135205991,
+          "volumeM": 135.21
         },
         {
           "date": "2026-05-14",
           "dateShort": "05/14",
-          "close": 29.75,
-          "open": 29.62,
-          "high": 29.98,
-          "low": 29.5,
-          "volume": 39185541,
-          "volumeM": 39.2
+          "close": 115.93,
+          "open": 114.66,
+          "high": 118.57,
+          "low": 113.17,
+          "volume": 118279791,
+          "volumeM": 118.28
         },
         {
-          "date": "2026-05-15",
-          "dateShort": "05/15",
-          "close": 30.21,
-          "open": 30.41,
-          "high": 30.54,
-          "low": 30.1,
-          "volume": 12745860,
-          "volumeM": 12.7
+          "date": "2026-05-13",
+          "dateShort": "05/13",
+          "close": 120.29,
+          "open": 124.1,
+          "high": 125.0,
+          "low": 116.41,
+          "volume": 115364423,
+          "volumeM": 115.36
         },
         {
-          "date": "2026-05-16",
-          "dateShort": "05/16",
-          "close": 30.92,
-          "open": 31.2,
-          "high": 31.23,
-          "low": 30.82,
-          "volume": 19393504,
-          "volumeM": 19.4
+          "date": "2026-05-12",
+          "dateShort": "05/12",
+          "close": 120.61,
+          "open": 124.36,
+          "high": 127.79,
+          "low": 115.0,
+          "volume": 172516514,
+          "volumeM": 172.52
+        },
+        {
+          "date": "2026-05-11",
+          "dateShort": "05/11",
+          "close": 129.44,
+          "open": 130.88,
+          "high": 132.75,
+          "low": 123.92,
+          "volume": 179486503,
+          "volumeM": 179.49
         }
       ],
-      "fiveDayPct": 4.21,
-      "high5": 31.23,
-      "low5": 28.94,
-      "avgVolume": 28225338.2,
-      "volTrend": "↓",
+      "fiveDayPct": 19.0,
+      "high5": 132.75,
+      "low5": 105.02,
+      "avgVolume": 144170644.4,
+      "volTrend": "↑",
       "analysis": {
-        "signal": "buy",
-        "summary": "Intel Corp五日走勢上升，累積變動+4.21%。成交量萎縮。技術信號：買入。",
+        "signal": "strong buy",
+        "summary": "Intel Corp五日走勢上升，累積變動+19.00%。成交量放大。技術信號：強烈買入。",
         "trend": "uptrend",
-        "volumeSignal": "volume decline",
-        "support": 29.52,
-        "resistance": 30.61,
-        "generatedAt": "2026-05-16 09:57"
+        "volumeSignal": "volume surge",
+        "support": 107.12,
+        "resistance": 130.09,
+        "generatedAt": "2026-05-16 10:46"
       }
     },
     {
@@ -506,69 +506,69 @@
       "name": "Advanced Micro Devices",
       "prices": [
         {
-          "date": "2026-05-12",
-          "dateShort": "05/12",
-          "close": 158.3,
-          "open": 158.43,
-          "high": 159.64,
-          "low": 156.84,
-          "volume": 36866488,
-          "volumeM": 36.9
-        },
-        {
-          "date": "2026-05-13",
-          "dateShort": "05/13",
-          "close": 162.4,
-          "open": 162.18,
-          "high": 162.91,
-          "low": 161.82,
-          "volume": 32054658,
-          "volumeM": 32.1
+          "date": "2026-05-15",
+          "dateShort": "05/15",
+          "close": 424.1,
+          "open": 433.34,
+          "high": 439.0,
+          "low": 423.3616,
+          "volume": 29131579,
+          "volumeM": 29.13
         },
         {
           "date": "2026-05-14",
           "dateShort": "05/14",
-          "close": 164.29,
-          "open": 164.94,
-          "high": 166.45,
-          "low": 162.94,
-          "volume": 44617916,
-          "volumeM": 44.6
+          "close": 449.7,
+          "open": 440.6,
+          "high": 453.31,
+          "low": 435.68,
+          "volume": 26113570,
+          "volumeM": 26.11
         },
         {
-          "date": "2026-05-15",
-          "dateShort": "05/15",
-          "close": 160.32,
-          "open": 160.54,
-          "high": 161.57,
-          "low": 158.83,
-          "volume": 9624674,
-          "volumeM": 9.6
+          "date": "2026-05-13",
+          "dateShort": "05/13",
+          "close": 445.5,
+          "open": 457.035,
+          "high": 459.5,
+          "low": 432.65,
+          "volume": 30423354,
+          "volumeM": 30.42
         },
         {
-          "date": "2026-05-16",
-          "dateShort": "05/16",
-          "close": 163.02,
-          "open": 162.46,
-          "high": 164.51,
-          "low": 162.35,
-          "volume": 8425482,
-          "volumeM": 8.4
+          "date": "2026-05-12",
+          "dateShort": "05/12",
+          "close": 448.29,
+          "open": 449.25,
+          "high": 458.8,
+          "low": 426.11,
+          "volume": 39140061,
+          "volumeM": 39.14
+        },
+        {
+          "date": "2026-05-11",
+          "dateShort": "05/11",
+          "close": 458.79,
+          "open": 460.55,
+          "high": 469.215,
+          "low": 450.88,
+          "volume": 46085390,
+          "volumeM": 46.09
         }
       ],
-      "fiveDayPct": 2.98,
-      "high5": 166.45,
-      "low5": 156.84,
-      "avgVolume": 26317843.6,
-      "volTrend": "↓",
+      "fiveDayPct": 8.18,
+      "high5": 469.215,
+      "low5": 423.3616,
+      "avgVolume": 34178790.8,
+      "volTrend": "↑",
       "analysis": {
-        "signal": "hold",
-        "summary": "Advanced Micro Devices五日走勢震盪，累積變動+2.98%。成交量萎縮。技術信號：持有。",
-        "trend": "sideways",
-        "volumeSignal": "volume decline",
-        "support": 159.98,
-        "resistance": 163.12,
-        "generatedAt": "2026-05-16 09:57"
+        "signal": "strong buy",
+        "summary": "Advanced Micro Devices五日走勢上升，累積變動+8.18%。成交量放大。技術信號：強烈買入。",
+        "trend": "uptrend",
+        "volumeSignal": "volume surge",
+        "support": 431.83,
+        "resistance": 459.83,
+        "generatedAt": "2026-05-16 10:46"
       }
     },
     {
@@ -577,69 +577,69 @@
       "name": "Lumentum Holdings",
       "prices": [
         {
-          "date": "2026-05-12",
-          "dateShort": "05/12",
-          "close": 97.96,
-          "open": 97.19,
-          "high": 98.36,
-          "low": 97.1,
-          "volume": 45081327,
-          "volumeM": 45.1
-        },
-        {
-          "date": "2026-05-13",
-          "dateShort": "05/13",
-          "close": 99.67,
-          "open": 99.06,
-          "high": 99.95,
-          "low": 98.15,
-          "volume": 14522235,
-          "volumeM": 14.5
+          "date": "2026-05-15",
+          "dateShort": "05/15",
+          "close": 970.7,
+          "open": 941.6,
+          "high": 987.85,
+          "low": 923.0,
+          "volume": 10141821,
+          "volumeM": 10.14
         },
         {
           "date": "2026-05-14",
           "dateShort": "05/14",
-          "close": 100.05,
-          "open": 100.95,
-          "high": 101.07,
-          "low": 99.88,
-          "volume": 38961422,
-          "volumeM": 39.0
+          "close": 1001.81,
+          "open": 1002.0,
+          "high": 1024.85,
+          "low": 983.02,
+          "volume": 3557117,
+          "volumeM": 3.56
         },
         {
-          "date": "2026-05-15",
-          "dateShort": "05/15",
-          "close": 97.97,
-          "open": 97.07,
-          "high": 98.45,
-          "low": 96.3,
-          "volume": 6629448,
-          "volumeM": 6.6
+          "date": "2026-05-13",
+          "dateShort": "05/13",
+          "close": 1030.37,
+          "open": 1051.585,
+          "high": 1062.1,
+          "low": 998.2,
+          "volume": 4398494,
+          "volumeM": 4.4
         },
         {
-          "date": "2026-05-16",
-          "dateShort": "05/16",
-          "close": 97.19,
-          "open": 98.03,
-          "high": 98.55,
-          "low": 96.84,
-          "volume": 24634510,
-          "volumeM": 24.6
+          "date": "2026-05-12",
+          "dateShort": "05/12",
+          "close": 992.37,
+          "open": 1018.23,
+          "high": 1085.68,
+          "low": 937.6401,
+          "volume": 7562654,
+          "volumeM": 7.56
+        },
+        {
+          "date": "2026-05-11",
+          "dateShort": "05/11",
+          "close": 1053.09,
+          "open": 949.715,
+          "high": 1073.33,
+          "low": 949.45,
+          "volume": 9550934,
+          "volumeM": 9.55
         }
       ],
-      "fiveDayPct": -0.79,
-      "high5": 101.07,
-      "low5": 96.3,
-      "avgVolume": 25965788.4,
-      "volTrend": "↓",
+      "fiveDayPct": 8.49,
+      "high5": 1085.68,
+      "low5": 923.0,
+      "avgVolume": 7042204.0,
+      "volTrend": "↑",
       "analysis": {
-        "signal": "hold",
-        "summary": "Lumentum Holdings五日走勢震盪，累積變動-0.79%。成交量萎縮。技術信號：持有。",
-        "trend": "sideways",
-        "volumeSignal": "volume decline",
-        "support": 98.23,
-        "resistance": 99.05,
-        "generatedAt": "2026-05-16 09:57"
+        "signal": "strong buy",
+        "summary": "Lumentum Holdings五日走勢上升，累積變動+8.49%。成交量放大。技術信號：強烈買入。",
+        "trend": "uptrend",
+        "volumeSignal": "volume surge",
+        "support": 941.46,
+        "resistance": 1063.97,
+        "generatedAt": "2026-05-16 10:46"
       }
     },
     {
@@ -648,71 +648,71 @@
       "name": "Amazon.com",
       "prices": [
         {
-          "date": "2026-05-12",
-          "dateShort": "05/12",
-          "close": 181.57,
-          "open": 181.79,
-          "high": 182.01,
-          "low": 181.03,
-          "volume": 35233120,
-          "volumeM": 35.2
-        },
-        {
-          "date": "2026-05-13",
-          "dateShort": "05/13",
-          "close": 181.27,
-          "open": 181.66,
-          "high": 181.88,
-          "low": 181.05,
-          "volume": 29070203,
-          "volumeM": 29.1
+          "date": "2026-05-15",
+          "dateShort": "05/15",
+          "close": 264.14,
+          "open": 262.5,
+          "high": 264.355,
+          "low": 260.8901,
+          "volume": 40770344,
+          "volumeM": 40.77
         },
         {
           "date": "2026-05-14",
           "dateShort": "05/14",
-          "close": 183.06,
-          "open": 183.75,
-          "high": 184.08,
-          "low": 181.91,
-          "volume": 23971948,
-          "volumeM": 24.0
+          "close": 267.22,
+          "open": 269.15,
+          "high": 270.7799,
+          "low": 266.63,
+          "volume": 31338435,
+          "volumeM": 31.34
         },
         {
-          "date": "2026-05-15",
-          "dateShort": "05/15",
-          "close": 185.43,
-          "open": 186.27,
-          "high": 186.37,
-          "low": 183.65,
-          "volume": 20555619,
-          "volumeM": 20.6
+          "date": "2026-05-13",
+          "dateShort": "05/13",
+          "close": 270.13,
+          "open": 264.43,
+          "high": 270.72,
+          "low": 263.2,
+          "volume": 39670915,
+          "volumeM": 39.67
         },
         {
-          "date": "2026-05-16",
-          "dateShort": "05/16",
-          "close": 188.52,
-          "open": 189.07,
-          "high": 190.25,
-          "low": 187.37,
-          "volume": 49339759,
-          "volumeM": 49.3
+          "date": "2026-05-12",
+          "dateShort": "05/12",
+          "close": 265.82,
+          "open": 266.71,
+          "high": 267.65,
+          "low": 262.63,
+          "volume": 36776221,
+          "volumeM": 36.78
+        },
+        {
+          "date": "2026-05-11",
+          "dateShort": "05/11",
+          "close": 268.99,
+          "open": 269.835,
+          "high": 273.63,
+          "low": 268.48,
+          "volume": 38176696,
+          "volumeM": 38.18
         }
       ],
-      "fiveDayPct": 3.83,
-      "high5": 190.25,
-      "low5": 181.03,
-      "avgVolume": 31634129.8,
+      "fiveDayPct": 1.84,
+      "high5": 273.63,
+      "low5": 260.8901,
+      "avgVolume": 37346522.2,
       "volTrend": "↑",
       "analysis": {
-        "signal": "buy",
-        "summary": "Amazon.com五日走勢上升，累積變動+3.83%。成交量穩定。技術信號：買入。",
-        "trend": "uptrend",
+        "signal": "hold",
+        "summary": "Amazon.com五日走勢震盪，累積變動+1.84%。成交量穩定。技術信號：持有。",
+        "trend": "sideways",
         "volumeSignal": "stable",
-        "support": 184.65,
-        "resistance": 186.44,
-        "generatedAt": "2026-05-16 09:57"
+        "support": 266.11,
+        "resistance": 268.16,
+        "generatedAt": "2026-05-16 10:46"
       }
     }
   ],
-  "aiSummary": "今日追蹤 10 檔熱門美股，五日整體平均上漲0.47%。表現最佳：Intel Corp（INTC）+4.21%，表現最弱：NVIDIA Corp（NVDA）-4.84%。上漲 6 檔，下跌 4 檔。"
+  "aiSummary": "今日追蹤 10 檔熱門美股，五日整體平均上漲5.53%。表現最佳：Intel Corp（INTC）+19.00%，表現最弱：NVIDIA Corp（NVDA）-2.61%。上漲 7 檔，下跌 3 檔。"
 }
