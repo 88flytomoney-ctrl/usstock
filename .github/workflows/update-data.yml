@@ -2,8 +2,8 @@ name: Update US Stock Data
 
 on:
   schedule:
-    # Run at 18:00 Hong Kong time (10:00 UTC) Mon-Fri
-    - cron: '0 10 * * 1-5'
+    # Run at 06:00 Hong Kong time (22:00 UTC previous day) Tue-Sat
+    - cron: '0 22 * * 2-6'
   workflow_dispatch:  # Manual trigger
   push:
     branches: [main]
