@@ -322,9 +322,9 @@ def main():
             print(' ❌ No data')
             continue
 
-        # Calculate metrics (prices[0]=oldest, prices[-1]=newest, ascending order)
-        oldest_close = prices[0]['close']
-        newest_close = prices[-1]['close']
+        # Calculate metrics (prices[0]=newest, prices[-1]=oldest, descending order)
+        newest_close = prices[0]['close']
+        oldest_close = prices[-1]['close']
         five_day_pct = round((newest_close / oldest_close - 1) * 100, 2)
         high_5 = max(p['high'] for p in prices)
         low_5 = min(p['low'] for p in prices)
