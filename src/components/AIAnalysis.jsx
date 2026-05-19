@@ -8,8 +8,8 @@ export default function AIAnalysis({ summary, stocks }) {
   const signalBars = [
     { label: '買入信號', count: buySignals, color: 'bg-blue-500' },
     { label: '賣出信號', count: sellSignals, color: 'bg-orange-500' },
-    { label: '上漲', count: gainers.length, color: 'bg-red-500' },
-    { label: '下跌', count: losers.length, color: 'bg-green-500' },
+    { label: '上漲', count: gainers.length, color: 'bg-green-500' },
+    { label: '下跌', count: losers.length, color: 'bg-red-500' },
   ];
 
   return (
@@ -41,7 +41,7 @@ export default function AIAnalysis({ summary, stocks }) {
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
         <div className="card">
-          <h3 className="font-semibold text-red-400 mb-3 flex items-center gap-2">
+          <h3 className="font-semibold text-green-400 mb-3 flex items-center gap-2">
             <span>🏆</span> 五日表現最佳
           </h3>
           <div className="space-y-2">
@@ -55,14 +55,14 @@ export default function AIAnalysis({ summary, stocks }) {
                     <span className="font-medium text-slate-200">{s.name}</span>
                     <span className="text-slate-500 font-mono text-xs">{s.code}</span>
                   </div>
-                  <span className="text-red-400 font-bold">▲ {s.fiveDayPct.toFixed(2)}%</span>
+                  <span className="text-green-400 font-bold">▲ {s.fiveDayPct.toFixed(2)}%</span>
                 </div>
               ))}
           </div>
         </div>
 
         <div className="card">
-          <h3 className="font-semibold text-green-400 mb-3 flex items-center gap-2">
+          <h3 className="font-semibold text-red-400 mb-3 flex items-center gap-2">
             <span>📉</span> 五日表現最弱
           </h3>
           <div className="space-y-2">
@@ -76,7 +76,7 @@ export default function AIAnalysis({ summary, stocks }) {
                     <span className="font-medium text-slate-200">{s.name}</span>
                     <span className="text-slate-500 font-mono text-xs">{s.code}</span>
                   </div>
-                  <span className="text-green-400 font-bold">▼ {Math.abs(s.fiveDayPct).toFixed(2)}%</span>
+                  <span className="text-red-400 font-bold">▼ {Math.abs(s.fiveDayPct).toFixed(2)}%</span>
                 </div>
               ))}
           </div>
