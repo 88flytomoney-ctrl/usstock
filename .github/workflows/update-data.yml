@@ -52,4 +52,5 @@ jobs:
           git add public/data/stocks.json public/data/history/
           git diff --staged --quiet && echo "No changes to commit" || \
             git commit -m "🤖 Auto-update US stock data $(date +%Y-%m-%d\ %H:%M)" && \
-            git push
+            git pull --ff-only || echo "Pull failed, force pushing..." && \
+            git push --force-with-lease
