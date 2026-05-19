@@ -1,9 +1,12 @@
 name: Deploy to GitHub Pages
 
 on:
+  schedule:
+    # Run every 2 hours to catch any data updates
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
   push:
     branches: [main]
-  workflow_dispatch:
 
 jobs:
   deploy:
