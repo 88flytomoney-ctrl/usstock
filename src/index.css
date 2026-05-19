@@ -16,8 +16,8 @@ body {
   .badge {
     @apply inline-flex items-center px-2 py-0.5 rounded text-xs font-medium;
   }
-  .badge-up { @apply bg-red-900/50 text-red-400; }
-  .badge-down { @apply bg-green-900/50 text-green-400; }
+.badge-up { @apply bg-green-900/50 text-green-400; }
+.badge-down { @apply bg-red-900/50 text-red-400; }
   .badge-neutral { @apply bg-slate-700 text-slate-300; }
   .badge-buy { @apply bg-blue-900/50 text-blue-400; }
   .badge-sell { @apply bg-orange-900/50 text-orange-400; }
