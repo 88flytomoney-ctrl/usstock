@@ -99,7 +99,7 @@ export default function StockCard({ stock }) {
                   <td className="text-right text-slate-300">${p.open?.toFixed(2)}</td>
                   <td className="text-right text-red-400">${p.high?.toFixed(2)}</td>
                   <td className="text-right text-green-400">${p.low?.toFixed(2)}</td>
-                  <td className={`text-right font-medium ${i > 0 && p.close > prices[i-1]?.close ? 'text-red-400' : 'text-green-400'}`}>
+                  <td className={`text-right font-medium ${p.close >= p.open ? 'text-green-400' : 'text-red-400'}`}>
                     ${p.close.toFixed(2)}
                   </td>
                   <td className="text-right text-slate-400">{p.volumeM}</td>
