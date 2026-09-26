@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26 00:14:11",
+  "generatedAt": "2026-09-26 23:58:55",
   "generatedDate": "2026-09-26",
   "stockCount": 10,
   "stocks": [
@@ -15,8 +15,8 @@
           "open": 1095.83,
           "high": 1108.72,
           "low": 1073.0,
-          "volume": 20456012,
-          "volumeM": 20.46
+          "volume": 20947931,
+          "volumeM": 20.95
         },
         {
           "date": "2026-09-24",
@@ -62,7 +62,7 @@
       "fiveDayPct": 3.67,
       "high5": 1108.72,
       "low5": 1030.015,
-      "avgVolume": 24292557.8,
+      "avgVolume": 24390941.6,
       "volTrend": "↑",
       "analysis": {
         "signal": "buy",
@@ -71,7 +71,7 @@
         "volumeSignal": "volume surge",
         "support": 1050.62,
         "resistance": 1086.55,
-        "generatedAt": "2026-09-26 00:14"
+        "generatedAt": "2026-09-26 23:58"
       }
     },
     {
@@ -86,8 +86,8 @@
           "open": 225.13,
           "high": 226.94,
           "low": 223.1329,
-          "volume": 87772148,
-          "volumeM": 87.77
+          "volume": 89947712,
+          "volumeM": 89.95
         },
         {
           "date": "2026-09-24",
@@ -133,7 +133,7 @@
       "fiveDayPct": -1.02,
       "high5": 229.98,
       "low5": 221.09,
-      "avgVolume": 92068421.2,
+      "avgVolume": 92503534.0,
       "volTrend": "↑",
       "analysis": {
         "signal": "watch",
@@ -142,7 +142,7 @@
         "volumeSignal": "stable",
         "support": 225.51,
         "resistance": 225.38,
-        "generatedAt": "2026-09-26 00:14"
+        "generatedAt": "2026-09-26 23:58"
       }
     },
     {
@@ -157,8 +157,8 @@
           "open": 768.845,
           "high": 769.57,
           "low": 746.5405,
-          "volume": 25595002,
-          "volumeM": 25.6
+          "volume": 25826729,
+          "volumeM": 25.83
         },
         {
           "date": "2026-09-24",
@@ -204,7 +204,7 @@
       "fiveDayPct": 1.41,
       "high5": 779.8192,
       "low5": 679.6,
-      "avgVolume": 33615063.0,
+      "avgVolume": 33661408.4,
       "volTrend": "↑",
       "analysis": {
         "signal": "hold",
@@ -213,7 +213,7 @@
         "volumeSignal": "stable",
         "support": 693.19,
         "resistance": 764.22,
-        "generatedAt": "2026-09-26 00:14"
+        "generatedAt": "2026-09-26 23:58"
       }
     },
     {
@@ -228,8 +228,8 @@
           "open": 499.035,
           "high": 519.4,
           "low": 497.25,
-          "volume": 37924650,
-          "volumeM": 37.92
+          "volume": 38193112,
+          "volumeM": 38.19
         },
         {
           "date": "2026-09-24",
@@ -275,7 +275,7 @@
       "fiveDayPct": 2.9,
       "high5": 519.4,
       "low5": 491.22,
-      "avgVolume": 24728126.0,
+      "avgVolume": 24781818.4,
       "volTrend": "↑",
       "analysis": {
         "signal": "hold",
@@ -284,7 +284,7 @@
         "volumeSignal": "stable",
         "support": 501.04,
         "resistance": 509.01,
-        "generatedAt": "2026-09-26 00:14"
+        "generatedAt": "2026-09-26 23:58"
       }
     },
     {
@@ -299,8 +299,8 @@
           "open": 384.62,
           "high": 386.83,
           "low": 367.67,
-          "volume": 44522786,
-          "volumeM": 44.52
+          "volume": 45999470,
+          "volumeM": 46.0
         },
         {
           "date": "2026-09-24",
@@ -346,7 +346,7 @@
       "fiveDayPct": -0.85,
       "high5": 386.83,
       "low5": 367.67,
-      "avgVolume": 33808104.4,
+      "avgVolume": 34103441.2,
       "volTrend": "↑",
       "analysis": {
         "signal": "hold",
@@ -355,7 +355,7 @@
         "volumeSignal": "stable",
         "support": 375.02,
         "resistance": 379.09,
-        "generatedAt": "2026-09-26 00:14"
+        "generatedAt": "2026-09-26 23:58"
       }
     },
     {
@@ -370,8 +370,8 @@
           "open": 1791.94,
           "high": 1815.0002,
           "low": 1742.59,
-          "volume": 7208268,
-          "volumeM": 7.21
+          "volume": 7341781,
+          "volumeM": 7.34
         },
         {
           "date": "2026-09-24",
@@ -417,7 +417,7 @@
       "fiveDayPct": 0.63,
       "high5": 1909.48,
       "low5": 1726.39,
-      "avgVolume": 9308334.0,
+      "avgVolume": 9335036.6,
       "volTrend": "↑",
       "analysis": {
         "signal": "buy",
@@ -426,7 +426,7 @@
         "volumeSignal": "volume surge",
         "support": 1760.92,
         "resistance": 1871.29,
-        "generatedAt": "2026-09-26 00:14"
+        "generatedAt": "2026-09-26 23:58"
       }
     },
     {
@@ -435,69 +435,69 @@
       "name": "Intel Corp",
       "prices": [
         {
-          "date": "2026-09-25",
-          "dateShort": "09/25",
-          "close": 123.0,
-          "open": 126.83,
-          "high": 126.93,
-          "low": 122.84,
-          "volume": 96249273,
-          "volumeM": 96.25
-        },
-        {
-          "date": "2026-09-24",
-          "dateShort": "09/24",
-          "close": 127.39,
-          "open": 120.61,
-          "high": 127.44,
-          "low": 119.55,
-          "volume": 119296710,
-          "volumeM": 119.3
+          "date": "2026-09-22",
+          "dateShort": "09/22",
+          "close": 29.34,
+          "open": 29.54,
+          "high": 29.77,
+          "low": 29.27,
+          "volume": 27294578,
+          "volumeM": 27.3
         },
         {
           "date": "2026-09-23",
           "dateShort": "09/23",
-          "close": 122.6,
-          "open": 123.865,
-          "high": 124.25,
-          "low": 119.44,
-          "volume": 85621056,
-          "volumeM": 85.62
+          "close": 29.25,
+          "open": 29.34,
+          "high": 29.57,
+          "low": 29.22,
+          "volume": 6275636,
+          "volumeM": 6.3
         },
         {
-          "date": "2026-09-22",
-          "dateShort": "09/22",
-          "close": 123.86,
-          "open": 120.15,
-          "high": 124.09,
-          "low": 120.075,
-          "volume": 108379359,
-          "volumeM": 108.38
+          "date": "2026-09-24",
+          "dateShort": "09/24",
+          "close": 29.84,
+          "open": 29.8,
+          "high": 30.07,
+          "low": 29.8,
+          "volume": 25042423,
+          "volumeM": 25.0
         },
         {
-          "date": "2026-09-21",
-          "dateShort": "09/21",
-          "close": 121.78,
-          "open": 116.53,
-          "high": 124.727,
-          "low": 114.93,
-          "volume": 191638352,
-          "volumeM": 191.64
+          "date": "2026-09-25",
+          "dateShort": "09/25",
+          "close": 30.24,
+          "open": 30.08,
+          "high": 30.53,
+          "low": 29.81,
+          "volume": 6376549,
+          "volumeM": 6.4
+        },
+        {
+          "date": "2026-09-26",
+          "dateShort": "09/26",
+          "close": 29.38,
+          "open": 29.4,
+          "high": 29.68,
+          "low": 29.27,
+          "volume": 14746972,
+          "volumeM": 14.7
         }
       ],
-      "fiveDayPct": 1.0,
-      "high5": 127.44,
-      "low5": 114.93,
-      "avgVolume": 120236950.0,
-      "volTrend": "↑",
+      "fiveDayPct": -0.14,
+      "high5": 30.53,
+      "low5": 29.22,
+      "avgVolume": 15947231.6,
+      "volTrend": "↓",
       "analysis": {
-        "signal": "buy",
-        "summary": "Intel Corp五日走勢震盪，累積變動+1.00%。成交量放大。技術信號：買入。",
+        "signal": "hold",
+        "summary": "Intel Corp五日走勢震盪，累積變動-0.14%。成交量萎縮。技術信號：持有。",
         "trend": "sideways",
-        "volumeSignal": "volume surge",
-        "support": 117.23,
-        "resistance": 124.89,
-        "generatedAt": "2026-09-26 00:14"
+        "volumeSignal": "volume decline",
+        "support": 29.8,
+        "resistance": 29.92,
+        "generatedAt": "2026-09-26 23:58"
       }
     },
     {
@@ -506,69 +506,69 @@
       "name": "Advanced Micro Devices",
       "prices": [
         {
-          "date": "2026-09-25",
-          "dateShort": "09/25",
-          "close": 630.63,
-          "open": 634.535,
-          "high": 639.0,
-          "low": 625.52,
-          "volume": 17496202,
-          "volumeM": 17.5
-        },
-        {
-          "date": "2026-09-24",
-          "dateShort": "09/24",
-          "close": 629.26,
-          "open": 600.27,
-          "high": 630.8,
-          "low": 599.24,
-          "volume": 25318929,
-          "volumeM": 25.32
+          "date": "2026-09-22",
+          "dateShort": "09/22",
+          "close": 161.9,
+          "open": 161.38,
+          "high": 161.97,
+          "low": 160.23,
+          "volume": 9649983,
+          "volumeM": 9.6
         },
         {
           "date": "2026-09-23",
           "dateShort": "09/23",
-          "close": 614.61,
-          "open": 621.5,
-          "high": 624.6899,
-          "low": 608.08,
-          "volume": 16338150,
-          "volumeM": 16.34
+          "close": 159.82,
+          "open": 159.31,
+          "high": 161.38,
+          "low": 159.25,
+          "volume": 7548667,
+          "volumeM": 7.5
         },
         {
-          "date": "2026-09-22",
-          "dateShort": "09/22",
-          "close": 623.77,
-          "open": 606.565,
-          "high": 624.52,
-          "low": 606.3125,
-          "volume": 28282819,
-          "volumeM": 28.28
+          "date": "2026-09-24",
+          "dateShort": "09/24",
+          "close": 162.53,
+          "open": 162.09,
+          "high": 162.75,
+          "low": 161.85,
+          "volume": 6797913,
+          "volumeM": 6.8
         },
         {
-          "date": "2026-09-21",
-          "dateShort": "09/21",
-          "close": 615.52,
-          "open": 583.88,
-          "high": 616.69,
-          "low": 582.27,
-          "volume": 44494272,
-          "volumeM": 44.49
+          "date": "2026-09-25",
+          "dateShort": "09/25",
+          "close": 160.87,
+          "open": 162.24,
+          "high": 163.54,
+          "low": 159.34,
+          "volume": 8227381,
+          "volumeM": 8.2
+        },
+        {
+          "date": "2026-09-26",
+          "dateShort": "09/26",
+          "close": 161.08,
+          "open": 159.79,
+          "high": 161.6,
+          "low": 158.66,
+          "volume": 37878296,
+          "volumeM": 37.9
         }
       ],
-      "fiveDayPct": 2.45,
-      "high5": 639.0,
-      "low5": 582.27,
-      "avgVolume": 26386074.4,
+      "fiveDayPct": 0.51,
+      "high5": 163.54,
+      "low5": 158.66,
+      "avgVolume": 14020448.0,
       "volTrend": "↑",
       "analysis": {
         "signal": "buy",
-        "summary": "Advanced Micro Devices五日走勢震盪，累積變動+2.45%。成交量放大。技術信號：買入。",
+        "summary": "Advanced Micro Devices五日走勢震盪，累積變動+0.51%。成交量放大。技術信號：買入。",
         "trend": "sideways",
         "volumeSignal": "volume surge",
-        "support": 593.92,
-        "resistance": 626.22,
-        "generatedAt": "2026-09-26 00:14"
+        "support": 161.83,
+        "resistance": 160.27,
+        "generatedAt": "2026-09-26 23:58"
       }
     },
     {
@@ -577,69 +577,69 @@
       "name": "Apple",
       "prices": [
         {
-          "date": "2026-09-25",
-          "dateShort": "09/25",
-          "close": 341.07,
-          "open": 336.04,
-          "high": 341.67,
-          "low": 334.53,
-          "volume": 29573070,
-          "volumeM": 29.57
-        },
-        {
-          "date": "2026-09-24",
-          "dateShort": "09/24",
-          "close": 335.92,
-          "open": 336.72,
-          "high": 338.91,
-          "low": 334.3,
-          "volume": 24733098,
-          "volumeM": 24.73
+          "date": "2026-09-22",
+          "dateShort": "09/22",
+          "close": 178.88,
+          "open": 180.61,
+          "high": 181.88,
+          "low": 178.77,
+          "volume": 30136332,
+          "volumeM": 30.1
         },
         {
           "date": "2026-09-23",
           "dateShort": "09/23",
-          "close": 337.02,
-          "open": 341.075,
-          "high": 341.8,
-          "low": 335.5,
-          "volume": 31658823,
-          "volumeM": 31.66
+          "close": 175.19,
+          "open": 173.6,
+          "high": 176.63,
+          "low": 171.89,
+          "volume": 28478097,
+          "volumeM": 28.5
         },
         {
-          "date": "2026-09-22",
-          "dateShort": "09/22",
-          "close": 339.75,
-          "open": 340.135,
-          "high": 345.34,
-          "low": 338.75,
-          "volume": 40711786,
-          "volumeM": 40.71
+          "date": "2026-09-24",
+          "dateShort": "09/24",
+          "close": 176.66,
+          "open": 175.37,
+          "high": 176.82,
+          "low": 174.86,
+          "volume": 8143139,
+          "volumeM": 8.1
         },
         {
-          "date": "2026-09-21",
-          "dateShort": "09/21",
-          "close": 338.98,
-          "open": 335.28,
-          "high": 339.64,
-          "low": 333.05,
-          "volume": 34999229,
-          "volumeM": 35.0
+          "date": "2026-09-25",
+          "dateShort": "09/25",
+          "close": 179.57,
+          "open": 178.35,
+          "high": 180.41,
+          "low": 178.25,
+          "volume": 13782224,
+          "volumeM": 13.8
+        },
+        {
+          "date": "2026-09-26",
+          "dateShort": "09/26",
+          "close": 177.86,
+          "open": 177.9,
+          "high": 178.42,
+          "low": 176.88,
+          "volume": 32164862,
+          "volumeM": 32.2
         }
       ],
-      "fiveDayPct": 0.62,
-      "high5": 345.34,
-      "low5": 333.05,
-      "avgVolume": 32335201.2,
+      "fiveDayPct": 0.57,
+      "high5": 181.88,
+      "low5": 171.89,
+      "avgVolume": 22540930.8,
       "volTrend": "↑",
       "analysis": {
-        "signal": "buy",
-        "summary": "Apple五日走勢震盪，累積變動+0.62%。成交量放大。技術信號：買入。",
+        "signal": "hold",
+        "summary": "Apple五日走勢震盪，累積變動+0.57%。成交量穩定。技術信號：持有。",
         "trend": "sideways",
-        "volumeSignal": "volume surge",
-        "support": 339.71,
-        "resistance": 338.43,
-        "generatedAt": "2026-09-26 00:14"
+        "volumeSignal": "stable",
+        "support": 175.33,
+        "resistance": 178.24,
+        "generatedAt": "2026-09-26 23:58"
       }
     },
     {
@@ -648,71 +648,71 @@
       "name": "Amazon.com",
       "prices": [
         {
-          "date": "2026-09-25",
-          "dateShort": "09/25",
-          "close": 249.67,
-          "open": 248.56,
-          "high": 250.8775,
-          "low": 247.18,
-          "volume": 32874010,
-          "volumeM": 32.87
-        },
-        {
-          "date": "2026-09-24",
-          "dateShort": "09/24",
-          "close": 249.38,
-          "open": 246.02,
-          "high": 250.43,
-          "low": 245.6,
-          "volume": 33040052,
-          "volumeM": 33.04
+          "date": "2026-09-22",
+          "dateShort": "09/22",
+          "close": 183.72,
+          "open": 184.38,
+          "high": 185.72,
+          "low": 182.98,
+          "volume": 12569209,
+          "volumeM": 12.6
         },
         {
           "date": "2026-09-23",
           "dateShort": "09/23",
-          "close": 249.27,
-          "open": 253.0,
-          "high": 253.99,
-          "low": 247.76,
-          "volume": 44209157,
-          "volumeM": 44.21
+          "close": 178.43,
+          "open": 177.68,
+          "high": 178.5,
+          "low": 177.44,
+          "volume": 29308095,
+          "volumeM": 29.3
         },
         {
-          "date": "2026-09-22",
-          "dateShort": "09/22",
-          "close": 254.98,
-          "open": 255.11,
-          "high": 259.0,
-          "low": 253.78,
-          "volume": 41982569,
-          "volumeM": 41.98
+          "date": "2026-09-24",
+          "dateShort": "09/24",
+          "close": 178.26,
+          "open": 179.5,
+          "high": 179.72,
+          "low": 178.12,
+          "volume": 10869475,
+          "volumeM": 10.9
         },
         {
-          "date": "2026-09-21",
-          "dateShort": "09/21",
-          "close": 258.45,
-          "open": 256.4,
-          "high": 259.49,
-          "low": 253.6,
-          "volume": 42979407,
-          "volumeM": 42.98
+          "date": "2026-09-25",
+          "dateShort": "09/25",
+          "close": 177.32,
+          "open": 176.04,
+          "high": 178.7,
+          "low": 175.01,
+          "volume": 49942325,
+          "volumeM": 49.9
+        },
+        {
+          "date": "2026-09-26",
+          "dateShort": "09/26",
+          "close": 175.01,
+          "open": 176.61,
+          "high": 177.2,
+          "low": 173.64,
+          "volume": 42858696,
+          "volumeM": 42.9
         }
       ],
-      "fiveDayPct": -3.4,
-      "high5": 259.49,
-      "low5": 245.6,
-      "avgVolume": 39017039.0,
+      "fiveDayPct": 4.98,
+      "high5": 185.72,
+      "low5": 173.64,
+      "avgVolume": 29109560.0,
       "volTrend": "↑",
       "analysis": {
-        "signal": "sell",
-        "summary": "Amazon.com五日走勢震盪，累積變動-3.40%。成交量穩定。技術信號：賣出。",
-        "trend": "sideways",
-        "volumeSignal": "stable",
-        "support": 250.51,
-        "resistance": 254.3,
-        "generatedAt": "2026-09-26 00:14"
+        "signal": "buy",
+        "summary": "Amazon.com五日走勢下跌，累積變動+4.98%。成交量放大。技術信號：買入。",
+        "trend": "downtrend",
+        "volumeSignal": "volume surge",
+        "support": 177.11,
+        "resistance": 182.01,
+        "generatedAt": "2026-09-26 23:58"
       }
     }
   ],
-  "aiSummary": "今日追蹤 10 檔熱門美股，五日整體平均上漲0.74%。表現最佳：Micron Technology（MU）+3.67%，表現最弱：Amazon.com（AMZN）-3.40%。上漲 7 檔，下跌 3 檔。"
+  "aiSummary": "今日追蹤 10 檔熱門美股，五日整體平均上漲1.27%。表現最佳：Amazon.com（AMZN）+4.98%，表現最弱：NVIDIA Corp（NVDA）-1.02%。上漲 7 檔，下跌 3 檔。"
 }
