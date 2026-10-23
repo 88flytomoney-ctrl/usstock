@@ -1,0 +1,718 @@
+{
+  "generatedAt": "2026-10-23 00:15:23",
+  "generatedDate": "2026-10-23",
+  "stockCount": 10,
+  "stocks": [
+    {
+      "code": "MU",
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "prices": [
+        {
+          "date": "2026-10-22",
+          "dateShort": "10/22",
+          "close": 856.49,
+          "open": 879.66,
+          "high": 908.3,
+          "low": 849.25,
+          "volume": 30868366,
+          "volumeM": 30.87
+        },
+        {
+          "date": "2026-10-21",
+          "dateShort": "10/21",
+          "close": 913.67,
+          "open": 923.735,
+          "high": 928.45,
+          "low": 889.45,
+          "volume": 21035005,
+          "volumeM": 21.04
+        },
+        {
+          "date": "2026-10-20",
+          "dateShort": "10/20",
+          "close": 896.07,
+          "open": 884.125,
+          "high": 918.89,
+          "low": 881.52,
+          "volume": 20304161,
+          "volumeM": 20.3
+        },
+        {
+          "date": "2026-10-19",
+          "dateShort": "10/19",
+          "close": 904.9,
+          "open": 913.545,
+          "high": 926.81,
+          "low": 900.57,
+          "volume": 25740476,
+          "volumeM": 25.74
+        },
+        {
+          "date": "2026-10-16",
+          "dateShort": "10/16",
+          "close": 878.84,
+          "open": 905.49,
+          "high": 907.5,
+          "low": 875.0,
+          "volume": 30514615,
+          "volumeM": 30.51
+        }
+      ],
+      "fiveDayPct": -2.54,
+      "high5": 928.45,
+      "low5": 849.25,
+      "avgVolume": 25692524.6,
+      "volTrend": "↑",
+      "analysis": {
+        "signal": "watch",
+        "summary": "Micron Technology五日走勢震盪，累積變動-2.54%。成交量穩定。技術信號：觀望。",
+        "trend": "sideways",
+        "volumeSignal": "stable",
+        "support": 866.24,
+        "resistance": 909.88,
+        "generatedAt": "2026-10-23 00:15"
+      }
+    },
+    {
+      "code": "NVDA",
+      "symbol": "NVDA",
+      "name": "NVIDIA Corp",
+      "prices": [
+        {
+          "date": "2026-10-22",
+          "dateShort": "10/22",
+          "close": 212.21,
+          "open": 217.13,
+          "high": 218.88,
+          "low": 211.26,
+          "volume": 123952585,
+          "volumeM": 123.95
+        },
+        {
+          "date": "2026-10-21",
+          "dateShort": "10/21",
+          "close": 221.97,
+          "open": 220.96,
+          "high": 222.19,
+          "low": 217.66,
+          "volume": 87085733,
+          "volumeM": 87.09
+        },
+        {
+          "date": "2026-10-20",
+          "dateShort": "10/20",
+          "close": 216.47,
+          "open": 215.98,
+          "high": 218.46,
+          "low": 212.77,
+          "volume": 79609078,
+          "volumeM": 79.61
+        },
+        {
+          "date": "2026-10-19",
+          "dateShort": "10/19",
+          "close": 217.09,
+          "open": 218.095,
+          "high": 219.62,
+          "low": 214.7,
+          "volume": 98684721,
+          "volumeM": 98.68
+        },
+        {
+          "date": "2026-10-16",
+          "dateShort": "10/16",
+          "close": 214.13,
+          "open": 216.56,
+          "high": 218.676,
+          "low": 213.32,
+          "volume": 121252522,
+          "volumeM": 121.25
+        }
+      ],
+      "fiveDayPct": -0.9,
+      "high5": 222.19,
+      "low5": 211.26,
+      "avgVolume": 102116927.8,
+      "volTrend": "↑",
+      "analysis": {
+        "signal": "hold",
+        "summary": "NVIDIA Corp五日走勢震盪，累積變動-0.90%。成交量穩定。技術信號：持有。",
+        "trend": "sideways",
+        "volumeSignal": "stable",
+        "support": 215.49,
+        "resistance": 217.75,
+        "generatedAt": "2026-10-23 00:15"
+      }
+    },
+    {
+      "code": "SPCX",
+      "symbol": "SPCX",
+      "name": "Space Exploration Technologies Corp.",
+      "prices": [
+        {
+          "date": "2026-10-22",
+          "dateShort": "10/22",
+          "close": 144.75,
+          "open": 154.21,
+          "high": 154.255,
+          "low": 143.21,
+          "volume": 194059462,
+          "volumeM": 194.06
+        },
+        {
+          "date": "2026-10-21",
+          "dateShort": "10/21",
+          "close": 159.31,
+          "open": 160.555,
+          "high": 166.18,
+          "low": 156.9301,
+          "volume": 220785163,
+          "volumeM": 220.79
+        },
+        {
+          "date": "2026-10-20",
+          "dateShort": "10/20",
+          "close": 147.79,
+          "open": 146.165,
+          "high": 148.66,
+          "low": 143.27,
+          "volume": 117204886,
+          "volumeM": 117.2
+        },
+        {
+          "date": "2026-10-19",
+          "dateShort": "10/19",
+          "close": 147.96,
+          "open": 149.23,
+          "high": 151.01,
+          "low": 146.83,
+          "volume": 74037780,
+          "volumeM": 74.04
+        },
+        {
+          "date": "2026-10-16",
+          "dateShort": "10/16",
+          "close": 146.03,
+          "open": 147.8,
+          "high": 147.92,
+          "low": 142.95,
+          "volume": 88552887,
+          "volumeM": 88.55
+        }
+      ],
+      "fiveDayPct": -0.88,
+      "high5": 166.18,
+      "low5": 142.95,
+      "avgVolume": 138928035.6,
+      "volTrend": "↓",
+      "analysis": {
+        "signal": "hold",
+        "summary": "Space Exploration Technologies Corp.五日走勢下跌，累積變動-0.88%。成交量萎縮。技術信號：持有。",
+        "trend": "downtrend",
+        "volumeSignal": "volume decline",
+        "support": 145.81,
+        "resistance": 162.86,
+        "generatedAt": "2026-10-23 00:15"
+      }
+    },
+    {
+      "code": "META",
+      "symbol": "META",
+      "name": "Meta Platforms",
+      "prices": [
+        {
+          "date": "2026-10-22",
+          "dateShort": "10/22",
+          "close": 648.85,
+          "open": 676.35,
+          "high": 681.07,
+          "low": 639.6901,
+          "volume": 40309002,
+          "volumeM": 40.31
+        },
+        {
+          "date": "2026-10-21",
+          "dateShort": "10/21",
+          "close": 697.52,
+          "open": 697.595,
+          "high": 713.22,
+          "low": 689.68,
+          "volume": 29203903,
+          "volumeM": 29.2
+        },
+        {
+          "date": "2026-10-20",
+          "dateShort": "10/20",
+          "close": 694.25,
+          "open": 694.98,
+          "high": 696.505,
+          "low": 681.05,
+          "volume": 17049068,
+          "volumeM": 17.05
+        },
+        {
+          "date": "2026-10-19",
+          "dateShort": "10/19",
+          "close": 705.44,
+          "open": 707.16,
+          "high": 708.83,
+          "low": 693.86,
+          "volume": 16260881,
+          "volumeM": 16.26
+        },
+        {
+          "date": "2026-10-16",
+          "dateShort": "10/16",
+          "close": 709.325,
+          "open": 736.695,
+          "high": 738.49,
+          "low": 702.7101,
+          "volume": 20643771,
+          "volumeM": 20.64
+        }
+      ],
+      "fiveDayPct": -8.53,
+      "high5": 738.49,
+      "low5": 639.6901,
+      "avgVolume": 24693325.0,
+      "volTrend": "↓",
+      "analysis": {
+        "signal": "sell",
+        "summary": "Meta Platforms五日走勢上升，累積變動-8.53%。成交量萎縮。技術信號：賣出。",
+        "trend": "uptrend",
+        "volumeSignal": "volume decline",
+        "support": 652.48,
+        "resistance": 723.72,
+        "generatedAt": "2026-10-23 00:15"
+      }
+    },
+    {
+      "code": "TSLA",
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "prices": [
+        {
+          "date": "2026-10-22",
+          "dateShort": "10/22",
+          "close": 374.58,
+          "open": 374.285,
+          "high": 388.8595,
+          "low": 373.71,
+          "volume": 51243432,
+          "volumeM": 51.24
+        },
+        {
+          "date": "2026-10-21",
+          "dateShort": "10/21",
+          "close": 386.47,
+          "open": 381.425,
+          "high": 388.843,
+          "low": 380.51,
+          "volume": 48875814,
+          "volumeM": 48.88
+        },
+        {
+          "date": "2026-10-20",
+          "dateShort": "10/20",
+          "close": 373.71,
+          "open": 370.28,
+          "high": 377.59,
+          "low": 363.64,
+          "volume": 32123322,
+          "volumeM": 32.12
+        },
+        {
+          "date": "2026-10-19",
+          "dateShort": "10/19",
+          "close": 368.06,
+          "open": 357.5,
+          "high": 369.5808,
+          "low": 354.47,
+          "volume": 38817910,
+          "volumeM": 38.82
+        },
+        {
+          "date": "2026-10-16",
+          "dateShort": "10/16",
+          "close": 354.72,
+          "open": 369.145,
+          "high": 370.5,
+          "low": 349.33,
+          "volume": 62067344,
+          "volumeM": 62.07
+        }
+      ],
+      "fiveDayPct": 5.6,
+      "high5": 388.8595,
+      "low5": 349.33,
+      "avgVolume": 46625564.4,
+      "volTrend": "↑",
+      "analysis": {
+        "signal": "hold",
+        "summary": "Tesla五日走勢下跌，累積變動+5.60%。成交量穩定。技術信號：持有。",
+        "trend": "downtrend",
+        "volumeSignal": "stable",
+        "support": 356.32,
+        "resistance": 381.08,
+        "generatedAt": "2026-10-23 00:15"
+      }
+    },
+    {
+      "code": "AAPL",
+      "symbol": "AAPL",
+      "name": "Apple",
+      "prices": [
+        {
+          "date": "2026-10-22",
+          "dateShort": "10/22",
+          "close": 348.22,
+          "open": 344.94,
+          "high": 348.36,
+          "low": 342.28,
+          "volume": 43578523,
+          "volumeM": 43.58
+        },
+        {
+          "date": "2026-10-21",
+          "dateShort": "10/21",
+          "close": 343.99,
+          "open": 339.36,
+          "high": 345.25,
+          "low": 338.83,
+          "volume": 35614126,
+          "volumeM": 35.61
+        },
+        {
+          "date": "2026-10-20",
+          "dateShort": "10/20",
+          "close": 339.5,
+          "open": 339.86,
+          "high": 343.06,
+          "low": 338.7,
+          "volume": 35851382,
+          "volumeM": 35.85
+        },
+        {
+          "date": "2026-10-19",
+          "dateShort": "10/19",
+          "close": 342.94,
+          "open": 340.775,
+          "high": 346.0,
+          "low": 340.115,
+          "volume": 34573181,
+          "volumeM": 34.57
+        },
+        {
+          "date": "2026-10-16",
+          "dateShort": "10/16",
+          "close": 343.46,
+          "open": 346.085,
+          "high": 347.82,
+          "low": 340.46,
+          "volume": 59946368,
+          "volumeM": 59.95
+        }
+      ],
+      "fiveDayPct": 1.39,
+      "high5": 348.36,
+      "low5": 338.7,
+      "avgVolume": 41912716.0,
+      "volTrend": "↑",
+      "analysis": {
+        "signal": "hold",
+        "summary": "Apple五日走勢震盪，累積變動+1.39%。成交量穩定。技術信號：持有。",
+        "trend": "sideways",
+        "volumeSignal": "stable",
+        "support": 345.47,
+        "resistance": 341.39,
+        "generatedAt": "2026-10-23 00:15"
+      }
+    },
+    {
+      "code": "AMD",
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices",
+      "prices": [
+        {
+          "date": "2026-10-22",
+          "dateShort": "10/22",
+          "close": 507.93,
+          "open": 524.095,
+          "high": 529.98,
+          "low": 502.6,
+          "volume": 27468612,
+          "volumeM": 27.47
+        },
+        {
+          "date": "2026-10-21",
+          "dateShort": "10/21",
+          "close": 552.72,
+          "open": 545.925,
+          "high": 556.79,
+          "low": 537.3,
+          "volume": 17998627,
+          "volumeM": 18.0
+        },
+        {
+          "date": "2026-10-20",
+          "dateShort": "10/20",
+          "close": 534.74,
+          "open": 530.02,
+          "high": 548.1069,
+          "low": 524.6,
+          "volume": 15186982,
+          "volumeM": 15.19
+        },
+        {
+          "date": "2026-10-19",
+          "dateShort": "10/19",
+          "close": 538.05,
+          "open": 551.78,
+          "high": 554.4095,
+          "low": 535.67,
+          "volume": 20199694,
+          "volumeM": 20.2
+        },
+        {
+          "date": "2026-10-16",
+          "dateShort": "10/16",
+          "close": 528.75,
+          "open": 547.55,
+          "high": 550.955,
+          "low": 526.8324,
+          "volume": 22575514,
+          "volumeM": 22.58
+        }
+      ],
+      "fiveDayPct": -3.94,
+      "high5": 556.79,
+      "low5": 502.6,
+      "avgVolume": 20685885.8,
+      "volTrend": "↑",
+      "analysis": {
+        "signal": "sell",
+        "summary": "Advanced Micro Devices五日走勢震盪，累積變動-3.94%。成交量穩定。技術信號：賣出。",
+        "trend": "sideways",
+        "volumeSignal": "stable",
+        "support": 512.65,
+        "resistance": 545.65,
+        "generatedAt": "2026-10-23 00:15"
+      }
+    },
+    {
+      "code": "MSFT",
+      "symbol": "MSFT",
+      "name": "Microsoft Corp",
+      "prices": [
+        {
+          "date": "2026-10-22",
+          "dateShort": "10/22",
+          "close": 521.08,
+          "open": 533.14,
+          "high": 533.596,
+          "low": 520.3,
+          "volume": 21010009,
+          "volumeM": 21.01
+        },
+        {
+          "date": "2026-10-21",
+          "dateShort": "10/21",
+          "close": 532.95,
+          "open": 529.44,
+          "high": 533.28,
+          "low": 525.02,
+          "volume": 13940102,
+          "volumeM": 13.94
+        },
+        {
+          "date": "2026-10-20",
+          "dateShort": "10/20",
+          "close": 531.87,
+          "open": 533.91,
+          "high": 534.21,
+          "low": 525.84,
+          "volume": 14576043,
+          "volumeM": 14.58
+        },
+        {
+          "date": "2026-10-19",
+          "dateShort": "10/19",
+          "close": 533.52,
+          "open": 528.7,
+          "high": 535.5684,
+          "low": 528.06,
+          "volume": 17994851,
+          "volumeM": 17.99
+        },
+        {
+          "date": "2026-10-16",
+          "dateShort": "10/16",
+          "close": 529.05,
+          "open": 541.31,
+          "high": 543.82,
+          "low": 524.43,
+          "volume": 24845667,
+          "volumeM": 24.85
+        }
+      ],
+      "fiveDayPct": -1.51,
+      "high5": 543.82,
+      "low5": 520.3,
+      "avgVolume": 18473334.4,
+      "volTrend": "↑",
+      "analysis": {
+        "signal": "watch",
+        "summary": "Microsoft Corp五日走勢震盪，累積變動-1.51%。成交量穩定。技術信號：觀望。",
+        "trend": "sideways",
+        "volumeSignal": "stable",
+        "support": 530.71,
+        "resistance": 532.94,
+        "generatedAt": "2026-10-23 00:15"
+      }
+    },
+    {
+      "code": "INTC",
+      "symbol": "INTC",
+      "name": "Intel Corp",
+      "prices": [
+        {
+          "date": "2026-10-22",
+          "dateShort": "10/22",
+          "close": 85.49,
+          "open": 87.92,
+          "high": 89.185,
+          "low": 84.645,
+          "volume": 132455770,
+          "volumeM": 132.46
+        },
+        {
+          "date": "2026-10-21",
+          "dateShort": "10/21",
+          "close": 92.96,
+          "open": 93.425,
+          "high": 94.394,
+          "low": 90.75,
+          "volume": 75566760,
+          "volumeM": 75.57
+        },
+        {
+          "date": "2026-10-20",
+          "dateShort": "10/20",
+          "close": 91.69,
+          "open": 90.73,
+          "high": 93.73,
+          "low": 88.77,
+          "volume": 84058602,
+          "volumeM": 84.06
+        },
+        {
+          "date": "2026-10-19",
+          "dateShort": "10/19",
+          "close": 92.03,
+          "open": 94.527,
+          "high": 95.39,
+          "low": 91.88,
+          "volume": 101608815,
+          "volumeM": 101.61
+        },
+        {
+          "date": "2026-10-16",
+          "dateShort": "10/16",
+          "close": 89.85,
+          "open": 93.48,
+          "high": 94.22,
+          "low": 89.19,
+          "volume": 123003084,
+          "volumeM": 123.0
+        }
+      ],
+      "fiveDayPct": -4.85,
+      "high5": 95.39,
+      "low5": 84.645,
+      "avgVolume": 103338606.2,
+      "volTrend": "↑",
+      "analysis": {
+        "signal": "sell",
+        "summary": "Intel Corp五日走勢上升，累積變動-4.85%。成交量穩定。技術信號：賣出。",
+        "trend": "uptrend",
+        "volumeSignal": "stable",
+        "support": 86.34,
+        "resistance": 93.48,
+        "generatedAt": "2026-10-23 00:15"
+      }
+    },
+    {
+      "code": "SNDK",
+      "symbol": "SNDK",
+      "name": "SanDisk Corp.",
+      "prices": [
+        {
+          "date": "2026-10-22",
+          "dateShort": "10/22",
+          "close": 1260.93,
+          "open": 1317.26,
+          "high": 1355.0,
+          "low": 1244.6,
+          "volume": 10140016,
+          "volumeM": 10.14
+        },
+        {
+          "date": "2026-10-21",
+          "dateShort": "10/21",
+          "close": 1378.22,
+          "open": 1415.23,
+          "high": 1424.4786,
+          "low": 1327.62,
+          "volume": 6964081,
+          "volumeM": 6.96
+        },
+        {
+          "date": "2026-10-20",
+          "dateShort": "10/20",
+          "close": 1365.38,
+          "open": 1336.965,
+          "high": 1388.88,
+          "low": 1330.0,
+          "volume": 6579861,
+          "volumeM": 6.58
+        },
+        {
+          "date": "2026-10-19",
+          "dateShort": "10/19",
+          "close": 1371.12,
+          "open": 1359.0,
+          "high": 1407.0,
+          "low": 1357.6381,
+          "volume": 8535353,
+          "volumeM": 8.54
+        },
+        {
+          "date": "2026-10-16",
+          "dateShort": "10/16",
+          "close": 1299.3,
+          "open": 1348.82,
+          "high": 1362.35,
+          "low": 1296.19,
+          "volume": 8954661,
+          "volumeM": 8.95
+        }
+      ],
+      "fiveDayPct": -2.95,
+      "high5": 1424.4786,
+      "low5": 1244.6,
+      "avgVolume": 8234794.4,
+      "volTrend": "↑",
+      "analysis": {
+        "signal": "watch",
+        "summary": "SanDisk Corp.五日走勢震盪，累積變動-2.95%。成交量穩定。技術信號：觀望。",
+        "trend": "sideways",
+        "volumeSignal": "stable",
+        "support": 1269.49,
+        "resistance": 1395.99,
+        "generatedAt": "2026-10-23 00:15"
+      }
+    }
+  ],
+  "aiSummary": "今日追蹤 10 檔熱門美股，五日整體平均下跌1.91%。表現最佳：Tesla（TSLA）+5.60%，表現最弱：Meta Platforms（META）-8.53%。上漲 2 檔，下跌 8 檔。"
+}
