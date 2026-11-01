@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31 01:09:05",
-  "generatedDate": "2026-10-31",
+  "generatedAt": "2026-11-01 00:32:11",
+  "generatedDate": "2026-11-01",
   "stockCount": 10,
   "stocks": [
     {
@@ -15,8 +15,8 @@
           "open": 208.94,
           "high": 209.06,
           "low": 200.9199,
-          "volume": 165583236,
-          "volumeM": 165.58
+          "volume": 168386423,
+          "volumeM": 168.39
         },
         {
           "date": "2026-10-29",
@@ -62,7 +62,7 @@
       "fiveDayPct": -5.26,
       "high5": 219.99,
       "low5": 200.9199,
-      "avgVolume": 102362089.6,
+      "avgVolume": 102922727.0,
       "volTrend": "↓",
       "analysis": {
         "signal": "sell",
@@ -71,7 +71,7 @@
         "volumeSignal": "stable",
         "support": 204.94,
         "resistance": 215.59,
-        "generatedAt": "2026-10-31 01:09"
+        "generatedAt": "2026-11-01 00:32"
       }
     },
     {
@@ -86,8 +86,8 @@
           "open": 883.995,
           "high": 906.54,
           "low": 861.585,
-          "volume": 30448164,
-          "volumeM": 30.45
+          "volume": 30872693,
+          "volumeM": 30.87
         },
         {
           "date": "2026-10-29",
@@ -133,7 +133,7 @@
       "fiveDayPct": -2.1,
       "high5": 990.0,
       "low5": 861.585,
-      "avgVolume": 25918714.4,
+      "avgVolume": 26003620.2,
       "volTrend": "↓",
       "analysis": {
         "signal": "watch",
@@ -142,7 +142,7 @@
         "volumeSignal": "stable",
         "support": 878.82,
         "resistance": 970.2,
-        "generatedAt": "2026-10-31 01:09"
+        "generatedAt": "2026-11-01 00:32"
       }
     },
     {
@@ -157,8 +157,8 @@
           "open": 68.36,
           "high": 68.77,
           "low": 63.2001,
-          "volume": 449028575,
-          "volumeM": 449.03
+          "volume": 455599430,
+          "volumeM": 455.6
         },
         {
           "date": "2026-10-29",
@@ -204,7 +204,7 @@
       "fiveDayPct": -27.31,
       "high5": 95.68,
       "low5": 63.2001,
-      "avgVolume": 171011437.4,
+      "avgVolume": 172325608.4,
       "volTrend": "↓",
       "analysis": {
         "signal": "sell",
@@ -213,7 +213,7 @@
         "volumeSignal": "volume decline",
         "support": 64.46,
         "resistance": 93.77,
-        "generatedAt": "2026-10-31 01:09"
+        "generatedAt": "2026-11-01 00:32"
       }
     },
     {
@@ -228,8 +228,8 @@
           "open": 346.715,
           "high": 349.19,
           "low": 334.35,
-          "volume": 67488998,
-          "volumeM": 67.49
+          "volume": 67841555,
+          "volumeM": 67.84
         },
         {
           "date": "2026-10-29",
@@ -275,7 +275,7 @@
       "fiveDayPct": 0.21,
       "high5": 351.43,
       "low5": 334.35,
-      "avgVolume": 45702685.0,
+      "avgVolume": 45773196.4,
       "volTrend": "↓",
       "analysis": {
         "signal": "hold",
@@ -284,7 +284,7 @@
         "volumeSignal": "stable",
         "support": 341.04,
         "resistance": 344.4,
-        "generatedAt": "2026-10-31 01:09"
+        "generatedAt": "2026-11-01 00:32"
       }
     },
     {
@@ -299,8 +299,8 @@
           "open": 232.54,
           "high": 241.55,
           "low": 229.3632,
-          "volume": 103173327,
-          "volumeM": 103.17
+          "volume": 104894738,
+          "volumeM": 104.89
         },
         {
           "date": "2026-10-29",
@@ -346,7 +346,7 @@
       "fiveDayPct": -3.51,
       "high5": 255.36,
       "low5": 229.3632,
-      "avgVolume": 58099564.6,
+      "avgVolume": 58443846.8,
       "volTrend": "↓",
       "analysis": {
         "signal": "sell",
@@ -355,7 +355,7 @@
         "volumeSignal": "volume decline",
         "support": 233.95,
         "resistance": 250.25,
-        "generatedAt": "2026-10-31 01:09"
+        "generatedAt": "2026-11-01 00:32"
       }
     },
     {
@@ -370,8 +370,8 @@
           "open": 525.27,
           "high": 526.0,
           "low": 514.35,
-          "volume": 34624509,
-          "volumeM": 34.62
+          "volume": 35652049,
+          "volumeM": 35.65
         },
         {
           "date": "2026-10-29",
@@ -417,7 +417,7 @@
       "fiveDayPct": -2.01,
       "high5": 541.29,
       "low5": 514.35,
-      "avgVolume": 28221049.2,
+      "avgVolume": 28426557.2,
       "volTrend": "↓",
       "analysis": {
         "signal": "watch",
@@ -426,7 +426,7 @@
         "volumeSignal": "volume decline",
         "support": 524.64,
         "resistance": 530.46,
-        "generatedAt": "2026-10-31 01:09"
+        "generatedAt": "2026-11-01 00:32"
       }
     },
     {
@@ -441,8 +441,8 @@
           "open": 508.525,
           "high": 520.3956,
           "low": 492.21,
-          "volume": 39393564,
-          "volumeM": 39.39
+          "volume": 39697503,
+          "volumeM": 39.7
         },
         {
           "date": "2026-10-29",
@@ -488,7 +488,7 @@
       "fiveDayPct": -4.98,
       "high5": 579.18,
       "low5": 492.21,
-      "avgVolume": 22502413.4,
+      "avgVolume": 22563201.2,
       "volTrend": "↓",
       "analysis": {
         "signal": "sell",
@@ -497,7 +497,7 @@
         "volumeSignal": "stable",
         "support": 502.05,
         "resistance": 567.6,
-        "generatedAt": "2026-10-31 01:09"
+        "generatedAt": "2026-11-01 00:32"
       }
     },
     {
@@ -512,8 +512,8 @@
           "open": 281.115,
           "high": 283.14,
           "low": 276.92,
-          "volume": 64383246,
-          "volumeM": 64.38
+          "volume": 65695032,
+          "volumeM": 65.7
         },
         {
           "date": "2026-10-29",
@@ -559,7 +559,7 @@
       "fiveDayPct": -11.67,
       "high5": 326.405,
       "low5": 276.92,
-      "avgVolume": 63971103.4,
+      "avgVolume": 64233460.6,
       "volTrend": "↓",
       "analysis": {
         "signal": "sell",
@@ -568,7 +568,7 @@
         "volumeSignal": "volume decline",
         "support": 282.46,
         "resistance": 319.88,
-        "generatedAt": "2026-10-31 01:09"
+        "generatedAt": "2026-11-01 00:32"
       }
     },
     {
@@ -583,8 +583,8 @@
           "open": 1215.095,
           "high": 1239.0,
           "low": 1115.16,
-          "volume": 17257206,
-          "volumeM": 17.26
+          "volume": 17469621,
+          "volumeM": 17.47
         },
         {
           "date": "2026-10-29",
@@ -630,7 +630,7 @@
       "fiveDayPct": -8.34,
       "high5": 1408.4463,
       "low5": 1115.16,
-      "avgVolume": 9755555.2,
+      "avgVolume": 9798038.2,
       "volTrend": "↓",
       "analysis": {
         "signal": "sell",
@@ -639,7 +639,7 @@
         "volumeSignal": "volume decline",
         "support": 1137.46,
         "resistance": 1380.28,
-        "generatedAt": "2026-10-31 01:09"
+        "generatedAt": "2026-11-01 00:32"
       }
     },
     {
@@ -654,8 +654,8 @@
           "open": 393.22,
           "high": 404.22,
           "low": 387.52,
-          "volume": 41439590,
-          "volumeM": 41.44
+          "volume": 41737178,
+          "volumeM": 41.74
         },
         {
           "date": "2026-10-29",
@@ -701,7 +701,7 @@
       "fiveDayPct": 2.09,
       "high5": 410.85,
       "low5": 383.73,
-      "avgVolume": 39664014.0,
+      "avgVolume": 39723531.6,
       "volTrend": "↑",
       "analysis": {
         "signal": "buy",
@@ -710,7 +710,7 @@
         "volumeSignal": "volume surge",
         "support": 391.4,
         "resistance": 402.63,
-        "generatedAt": "2026-10-31 01:09"
+        "generatedAt": "2026-11-01 00:32"
       }
     }
   ],
